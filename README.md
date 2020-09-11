@@ -26,6 +26,8 @@ jupyter notebook haberman_ml_build.ipynb
 ```
 and run all cells (select "Cell" > "Run All" or press Shift+Return to run individual cells). When prompted, enter the age, year of operation, and number of positive axillary nodes for an imagnary patient whose long-term survival probability you'd like to check.
 
+Please note, I am still very new at this whole *machine learning magic* thing, so most of the work in ``haberman_ml_build.ipynb`` is based on a tutorial by Jason Brownlee, [available at this website](https://machinelearningmastery.com/how-to-develop-a-probabilistic-model-of-breast-cancer-patient-survival/).
+
 ## Author
 
 Hannah Lewis – hlewis@virginia.edu
